@@ -1,6 +1,6 @@
 <h2>These are some projects I have worked on:</h2>
 
-- [MM3D Randomizer Tracker (IN-PROGRESS)](https://github.com/GonzaloJMora/mm3drTracker)
+- [MM3D Randomizer Tracker](https://github.com/GonzaloJMora/mm3drTracker)
    - A tracker built to be able to track progress when playing the Majora's Mask 3D randomizer.
    - Takes item logic into account in order to tell you what locations are available to check.
 - [Grandma Wrestling](https://github.com/GonzaloJMora/GrandmaWrestling)
